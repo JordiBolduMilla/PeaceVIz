@@ -5,22 +5,25 @@ En aquest repositori hi trobareu el codi i els fitxers utiltzats com a fonts de 
 A continuació es llista la ubicació dels diferents arxius i documents, endreçats per carpetes, acompanyats d'una breu descripció:
 
 Carpeta **data/**
-- **pax_all_agreements_data.xlsx**		
+
+- **pax_all_agreements_data.xlsx**
+
 Fitxer en forma Excel amb les dades originals del projecte descarregat del lloc web [https://www.peaceagreements.org/](https://www.peaceagreements.org/)
-- **pivot_groups_per_tractat.xlsx**		
+
+- **pivot_groups_per_tractat.xlsx**
+
 Fitxer en format Excel generat amb el Notebook de Jupyter sobre Python que trobareu a **code/Pivot_dades_originals** i que conté les diferents categories que es mencionen en cada acord de pau
-- **pivot_paisos_per_tractat_def.xlsx**	
+
+- **pivot_paisos_per_tractat_def.xlsx**
+
 Fitxer en format Excel generat amb el Notebook de Jupyter sobre Python que trobareu a **code/Pivot_dades_originals** i que conté els noms normalitzats juntament amb el seu corresponent codi ISO 3166-1 alpha-3 de 3 caràcters involucrats com a contrincants en cada acord de pau
-- **UNSD — Methodology.xlsx**	
+
+- **UNSD — Methodology.xlsx**
+
 Fitxer en format Excel que conté, entre d'altres, el codi ISO 3166-1 alpha-3 de 3 caràcters dels diferents paisos del món
 
+Carpeta **data/**
 
- 
- 
-
-
-
-- **code/**
  -- **PAC2_jboldum.ipynb**
 Jupyter Notebook en llenguatge Python utilitzat per l'elaboració d'un informe amb l'anàlisi descriptiu del dataset utilitzat en el projecte i que trobareu, en aquest mateix repositori, a la carpeta **data/pax_all_agreements_data.xlsx** 
  
