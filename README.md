@@ -4,7 +4,7 @@ En aquest repositori hi trobareu el codi i els fitxers utiltzats com a fonts de 
 
 A continuació es llista la ubicació dels diferents arxius i documents, endreçats per carpetes, acompanyats d'una breu descripció:
 
-## Carpeta **data**
+## Carpeta _data_
 
 - **pax_all_agreements_data.xlsx**
 
@@ -22,7 +22,7 @@ Fitxer en format Excel generat amb el Notebook de Jupyter sobre Python que troba
 
 Fitxer en format Excel que conté, entre d'altres, el codi ISO 3166-1 alpha-3 de 3 caràcters dels diferents paisos del món
 
-**Carpeta code/**
+## Carpeta _code_
 
 - **PAC2_jboldum.ipynb**
 
