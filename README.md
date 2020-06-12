@@ -5,7 +5,7 @@ En aquest repositori hi trobareu el codi i els fitxers utiltzats com a fonts de 
 A continuació es llista la ubicació dels diferents arxius i documents, endreçats per carpetes, acompanyats d'una breu descripció:
 
 - **data/**
- -- **pax_all_agreements_data.xlsx**
+-- **pax_all_agreements_data.xlsx**
 Fitxer en forma Excel amb les dades originals del projecte descarregat del lloc web [https://www.peaceagreements.org/](https://www.peaceagreements.org/)
  -- **pivot_groups_per_tractat.xlsx**
 Fitxer en format Excel generat amb el Notebooks de Jupyter sobre Python descrits més endavant (veure carpeta **code**) que contenen les diferents categories que es mencionen en cada acord de pau
