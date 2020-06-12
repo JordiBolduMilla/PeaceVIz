@@ -12,11 +12,11 @@ Fitxer en forma Excel amb les dades originals del projecte descarregat del lloc 
 
 - **pivot_groups_per_tractat.xlsx**
 
-Fitxer en format Excel generat amb el Notebook de Jupyter sobre Python que trobareu a **code/Pivot_dades_originals** i que conté les diferents categories que es mencionen en cada acord de pau
+Fitxer en format Excel generat amb el Notebook de Jupyter sobre Python que trobareu a **code/Pivot_dades_originals.ipynb** i que conté les diferents categories que es mencionen en cada acord de pau
 
 - **pivot_paisos_per_tractat_def.xlsx**
 
-Fitxer en format Excel generat amb el Notebook de Jupyter sobre Python que trobareu a **code/Pivot_dades_originals** i que conté els noms normalitzats juntament amb el seu corresponent codi ISO 3166-1 alpha-3 de 3 caràcters involucrats com a contrincants en cada acord de pau
+Fitxer en format Excel generat amb el Notebook de Jupyter sobre Python que trobareu a **code/Pivot_dades_originals.ipynb** i que conté els noms normalitzats juntament amb el seu corresponent codi ISO 3166-1 alpha-3 de 3 caràcters involucrats com a contrincants en cada acord de pau
 
 - **UNSD — Methodology.xlsx**
 
