@@ -1,1 +1,1 @@
-# PeaceVIz
+# PeaceViz
