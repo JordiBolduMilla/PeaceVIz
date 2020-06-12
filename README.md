@@ -22,20 +22,25 @@ Fitxer en format Excel generat amb el Notebook de Jupyter sobre Python que troba
 
 Fitxer en format Excel que conté, entre d'altres, el codi ISO 3166-1 alpha-3 de 3 caràcters dels diferents paisos del món
 
-Carpeta **data/**
+**Carpeta code/**
 
- -- **PAC2_jboldum.ipynb**
+- **PAC2_jboldum.ipynb**
+
 Jupyter Notebook en llenguatge Python utilitzat per l'elaboració d'un informe amb l'anàlisi descriptiu del dataset utilitzat en el projecte i que trobareu, en aquest mateix repositori, a la carpeta **data/pax_all_agreements_data.xlsx** 
  
- -- **PAC2_jboldum.html**
- Versió html del Jupyter Notebook anterior
+- **PAC2_jboldum.html**
+
+Versió html del Jupyter Notebook anterior
  
- -- **Pivot_dades_originals.ipynb**
-Jupyter Notebook en llenguatge Python utilitzat per la neteja i transformació del fitxers de dades original que trobareu a **data/pax_all_agreements_data.xlsx**  
+- **Pivot_dades_originals.ipynb**
+
+Jupyter Notebook en llenguatge Python utilitzat per la neteja i transformació del fitxers de dades original que trobareu a 
+**data/pax_all_agreements_data.xlsx**  
  
- -- **Pivot_dades_originals.html**
- Versió html del Jupyter Notebook anterior
- 
+- **Pivot_dades_originals.html**
+
+Versió html del Jupyter Notebook anterior
+
   
 
  
