@@ -41,6 +41,15 @@ Jupyter Notebook en llenguatge Python utilitzat per la neteja i transformació d
 
 Versió html del Jupyter Notebook anterior
 
-  
+
+## Carpeta _reports_
+
+- **informe_dades_PAC2.html**
+
+Informe html amb l'análisi descriptiu del conjunt de dades provinents del fitxer **data/pax_all_agreements_data.xlsx**   
+
+## Carpeta _pacs anteriors_ 
+
+Donat que la gestació d'aquest projecte s'ha anat elaborant i refinant en diverses etapes que inclouen l'anàlisi, la proposta de disseny i, finalment, la creació de la visualització, he considerat oportú publicar també al repositori  les memòries dels lliuraments anteriors per ajudar a visualitzar el procés seguit.
 
  
